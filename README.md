@@ -3,7 +3,7 @@ Spring MVC 3 + MyBatis 3 + ExtJS 3.4 CRUD Grid Example
 
 This application is based on Spring framework with the use of SpringMVC.
 Domain objects are serialized and deserialized using Jackson JSON. See ExtData and ExtResponse classes.
-DB connection is managed by MyBatis engine. 
+DB connection is managed by MyBatis engine with the use of XML Mappers.
 (Additional links:
 http://www.mybatis.org/mybatis-3
 http://www.mybatis.org/spring)
